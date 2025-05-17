@@ -1,5 +1,5 @@
 # Hello, I'm Aryaf Alotaibi!
-  - 📖 Computer Science Student | Passionate About AI & Emerging Technologies.
+  - 📖 Computer Science Student | Passionate About AI, ML, and Innovative Solutions.
 #### 🔹 About Me
 - I am a dedicated Computer Science student with a deep passion for artificial intelligence and programming. I am constantly seeking opportunities to learn and contribute to innovative projects, with the goal of making a significant impact in the tech industry.
 #### 🔹 Technical Skills<br/>
