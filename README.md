@@ -1,10 +1,11 @@
-- Hello!, I'm Aryaf Alotaibi
+# Hello!, I'm Aryaf Alotaibi
   - 📖 Computer Science Student | Passionate About AI & Emerging Technologies.
-- 🔹 About Me<br/>I am a dedicated Computer Science student with a deep passion for artificial intelligence and programming. I am constantly seeking opportunities to learn and contribute to innovative projects, with the goal of making a significant impact in the tech industry.
-- 🔹 Technical Skills<br/>
+#### 🔹 About Me
+- I am a dedicated Computer Science student with a deep passion for artificial intelligence and programming. I am constantly seeking opportunities to learn and contribute to innovative projects, with the goal of making a significant impact in the tech industry.
+#### 🔹 Technical Skills<br/>
    * Programming Languages: Proficient in Python, with foundational knowledge in Java.
    * Focus Areas: Artificial Intelligence, Machine Learning, NlP and Deep Learning.
-- 🔹 Notable Projects
+#### 🔹 Notable Projects
    * DroneFarmer: A simulated drone system for No-Till Farming that autonomously disperses seeds, tracks location via GPS, and monitors battery usage for efficient, automated farming without human intervention.<br/>
 This is just one of the projects I’ve worked on. You can find more of my work and contributions on my [GitHub profile](https://github.com/AryafAlotaibi).<br/>
 
