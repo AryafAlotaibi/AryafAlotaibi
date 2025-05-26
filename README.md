@@ -7,7 +7,9 @@
    * Focus Areas: Artificial Intelligence, Machine Learning, NlP and Deep Learning.
 #### 🔹 Notable Projects
    * DroneFarmer: A simulated drone system for No-Till Farming that autonomously disperses seeds, tracks location via GPS, and monitors battery usage for efficient, automated farming without human intervention.<br/>
-This is just one of the projects I’ve worked on. You can find more of my work and contributions on my [GitHub profile](https://github.com/AryafAlotaibi).<br/>
+   * Sentiment Analyzer for Movie Reviews: A deep learning-based sentiment analysis system built using a Convolutional Neural Network (CNN). Trained on the IMDB dataset, the model predicts whether a given movie review is positive or negative. 
+
+You can find more of my work and contributions on my [GitHub profile](https://github.com/AryafAlotaibi).<br/>
 
 🔗 LinkedIn: https://www.linkedin.com/in/aryafalotaibi 
 
